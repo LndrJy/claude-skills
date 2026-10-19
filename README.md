@@ -5,7 +5,7 @@ My personal Claude Code skills (92), from `claude-skills-2026-08-11.zip`.
 ## Install on a new device
 
 ```bash
-git clone https://github.com/<you>/claude-skills.git ~/code/claude-skills
+git clone https://github.com/LndrJy/claude-skills.git ~/code/claude-skills
 bash ~/code/claude-skills/install.sh          # installs into ~/.claude/skills
 ```
 
